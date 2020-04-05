@@ -31,7 +31,7 @@ home
 
 ### My Great Heading {#custom-id}
 
-<a id="custom-id">My Great Heading</a>
+<h3 id="custom-id">My Great Heading</h3>
 
 ## Markdown plus h2 with a custom ID {#website-development-life-cycle--planning-sitemap-id}
 
